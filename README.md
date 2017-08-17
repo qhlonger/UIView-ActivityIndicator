@@ -7,6 +7,6 @@
 ### add a UIActivityIndicatorView on any view 
 
 > 
-#import "UIView+ActivityIndicator.h"
-[anyView startLoading];
-[anyView stopLoading];
+	#import "UIView+ActivityIndicator.h"
+	[anyView startLoading];
+	[anyView stopLoading];
